@@ -12,7 +12,8 @@ It is firstly chosen to cluster the city regions based on the demand data and th
 
 ## Data
 
-The dataset utilized in this paper has been extracted from [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) provided by Olist. It is a real Brazilian e-commerce public dataset of orders made at the Olist Store, the largest department store in Brazilian marketplaces. The dataset has information about around 100k orders from 2016 to 2018. Its features allow viewing an order from multiple dimensions: order status, price, payment, customer location, product attributes, etc. Each order is identified by an order ID. 
+The dataset utilized in this paper has been extracted from [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce) provided by Olist. The data is released under the CC BY-NC-SA 4.0 license. Further information on the CC BY-NC-SA 4.0 license can be found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/). It is a real Brazilian e-commerce public dataset of orders made at the Olist Store, the largest department store in Brazilian marketplaces. The dataset has information about around 100k orders from 2016 to 2018. Its features allow viewing an order from multiple dimensions: order status, price, payment, customer location, product attributes, etc. Each order is identified by an order ID. 
+
 
 ## Experimental setup
 
